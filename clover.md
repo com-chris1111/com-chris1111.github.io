@@ -15,10 +15,6 @@ title: Clover
 #### Download ➤ [Clover Special Edition](https://github.com/chris1111/CloverBootloader/releases)
 #### 〖 Always updated on source code Build UDK2, Xcode 11.0 (11A420a) 〗
 
-<p align="center">
-   <div id="comslider_in_point_2120298"></div><script type="text/javascript">var oCOMScript2120298=document.createElement('script');oCOMScript2120298.src="https://commondatastorage.googleapis.com/comslider/target/users/1598021216x8f68a8253a2f3400964e98e9f4188c7c/comslider.js?timestamp=1598022167&ct="+Date.now();oCOMScript2120298.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript2120298);</script>
-			</div>
-      <p
 
 
                    
