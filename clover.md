@@ -14,11 +14,3 @@ title: Clover
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/65962385-8f904e00-e426-11e9-9251-16dbb5f7902a.png)](https://youtu.be/iaN0MziLIwI)
 #### Download ➤ [Clover Special Edition](https://github.com/chris1111/CloverBootloader/releases)
 #### 〖 Always updated on source code Build UDK2, Xcode 11.0 (11A420a) 〗
-
- <div align="center">
-         <div id="comslider_in_point_1722736">
-         </div><script type="text/javascript">var oCOMScript1722736=document.createElement('script');oCOMScript1722736.src="https://commondatastorage.googleapis.com/comslider/target/users/1543672738x6170607154879f395885204beb40fc11/comslider.js?timestamp=1543677886&ct="+Date.now();oCOMScript1722736.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1722736);</script>
-         </div>
-        </header>
-      </div>
-    </div>
