@@ -34,7 +34,7 @@ footer-links:
 # New fields not defaulted by jekyll-new with the minima theme
 # Add a copyright. A copyright symbol and year will be added automatically
 # copyright: com.chris1111.Blog 
-copyright: "<chris1111>"
+copyright: chris1111
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
