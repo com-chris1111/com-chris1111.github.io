@@ -29,7 +29,12 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: /channel/UC0YX7sSja4FYJDQQqwrsYJg
   googleplus: # anything in your profile username that comes after plus.google.com/
-  copyright: "This site is made<3 by chris1111."
+  
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright. A copyright symbol and year will be added automatically
+# copyright: com.chris1111.Blog 
+copyright: "<chris1111>"
+
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
